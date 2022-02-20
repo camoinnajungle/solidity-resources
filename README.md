@@ -1,38 +1,38 @@
 # solidity-resources
 
 https://github.com/OffcierCia/DeFi-Developer-Road-Map<br/>
-https://github.com/ethereumbook/ethereumbook. 
-https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html. 
-https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum. 
-https://cmichel.io/how-to-become-a-smart-contract-auditor/. 
+https://github.com/ethereumbook/ethereumbook<br/>
+https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html<br/>
+https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum<br/>
+https://cmichel.io/how-to-become-a-smart-contract-auditor/<br/>
 
 education:
-https://our.status.im/what-is-a-security-audit-when-you-should-get-one-and-how-to-prepare/
-https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13
-https://yos.io/articles/
-https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/
-https://medium.com/@jeancvllr
-https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/
-https://consensys.github.io/smart-contract-best-practices/
+https://our.status.im/what-is-a-security-audit-when-you-should-get-one-and-how-to-prepare/<br/>
+https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13<br/>
+https://yos.io/articles/<br/>
+https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/<br/>
+https://medium.com/@jeancvllr<br/>
+https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/<br/>
+https://consensys.github.io/smart-contract-best-practices/<br/>
 
-blogs:
-https://blog.trailofbits.com/
-https://blog.openzeppelin.com/
+blogs:<br/>
+https://blog.trailofbits.com/<br/>
+https://blog.openzeppelin.com/<br/>
 
-practice:
-https://www.damnvulnerabledefi.xyz/
-https://capturetheether.com/
-https://cryptozombies.io/
+practice:<br/>
+https://www.damnvulnerabledefi.xyz/<br/>
+https://capturetheether.com/<br/>
+https://cryptozombies.io/<br/>
 
-newsletters:
-https://secureum.substack.com/
-https://blockthreat.substack.com/
+newsletters:<br/>
+https://secureum.substack.com/<br/>
+https://blockthreat.substack.com/<br/>
 
-analyzers:
-https://github.com/ConsenSys/scribble
-https://github.com/eth-sri/securify2
-https://github.com/trailofbits/manticore
-https://github.com/crytic/echidna
-https://github.com/crytic/slither
-https://github.com/ConsenSys/mythril
-https://mythx.io/
+analyzers:<br/>
+https://github.com/ConsenSys/scribble<br/>
+https://github.com/eth-sri/securify2<br/>
+https://github.com/trailofbits/manticore<br/>
+https://github.com/crytic/echidna<br/>
+https://github.com/crytic/slither<br/>
+https://github.com/ConsenSys/mythril<br/>
+https://mythx.io/<br/>
