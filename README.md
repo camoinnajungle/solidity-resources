@@ -6,7 +6,7 @@ https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html<br/>
 https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum<br/>
 https://cmichel.io/how-to-become-a-smart-contract-auditor/<br/>
 
-education:
+education:<br/>
 https://our.status.im/what-is-a-security-audit-when-you-should-get-one-and-how-to-prepare/<br/>
 https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13<br/>
 https://yos.io/articles/<br/>
@@ -36,3 +36,7 @@ https://github.com/crytic/echidna<br/>
 https://github.com/crytic/slither<br/>
 https://github.com/ConsenSys/mythril<br/>
 https://mythx.io/<br/>
+
+
+https://our.status.im/what-is-a-security-audit-when-you-should-get-one-and-how-to-prepare/
+https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13
